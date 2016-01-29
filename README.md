@@ -1,2 +1,2 @@
 # mml
-MCU Machine Learning 
+MCU Machine Learning library
